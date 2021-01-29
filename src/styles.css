@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#mapid {
+  height: 180px;
+}
+body {
+  background-color: #ebe0e0;
+}
